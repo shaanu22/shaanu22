@@ -1,7 +1,7 @@
 ![MasterHead](https://services.harman.com/Blogs/PublishingImages/agile_blogbanner_0.jpg)
-<h1 align="center">Hi 👋, I'm Samuel Taiwo....and I'm pleased to meet you!</h1>
-<h3 align="center">I am a passionate DevOps Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E03AQGAVul1_ePiWA/profile-displayphoto-shrink_200_200/0/1521952352221?e=1706745600&v=beta&t=VZLj32CdFQ-lxfnlcAI8z1uSZQa7qW78qjFD_PrCMy4>
+<h1 align="center">Hi 👋, I'm Sam Taiwo....and I'm pleased to meet you!</h1>
+<h3 align="center">A passionate DevOps Engineer</h3>
+<img align="right" alt="DevOps Engineering" width="400" src="https://media.licdn.com/dms/image/C4E03AQGAVul1_ePiWA/profile-displayphoto-shrink_200_200/0/1521952352221?e=1706745600&v=beta&t=VZLj32CdFQ-lxfnlcAI8z1uSZQa7qW78qjFD_PrCMy4.gif>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaanu22" alt="shaanu22" /></a> </p>
 

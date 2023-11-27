@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sam Taiwo....and I'm pleased to meet you!</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaanu22" alt="shaanu22" /></a> </p>
-
 - 🌱 I’m currently learning **Kubernetes, Ansible, Python, and Bash Scripting**
 
 - 👯 I’m looking to collaborate on **anything & everything DevOps!**

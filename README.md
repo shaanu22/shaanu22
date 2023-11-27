@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **anything & everything DevOps!**
 
-- ⚡ Fun fact **I am somewhat close to being ambidextrous**
+- ⚡ Fun fact: **I am somewhat close to being ambidextrous**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

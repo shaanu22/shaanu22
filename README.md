@@ -1,8 +1,6 @@
 ![MasterHead](https://services.harman.com/Blogs/PublishingImages/agile_blogbanner_0.jpg)
 <h1 align="center">Hi 👋, I'm Sam Taiwo....and I'm pleased to meet you!</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
-
-- 🌱 I’m currently learning **Kubernetes, Ansible, Python, and Bash Scripting**
+<h3 align="center">A passionate DevOps/SRE Engineer</h3>
 
 - 👯 I’m looking to collaborate on **anything & everything DevOps!**
 
